@@ -26,6 +26,7 @@
 
 ### 一些作品
 
+<!-- PROJECTS:START -->
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -70,6 +71,7 @@
     </td>
   </tr>
 </table>
+<!-- PROJECTS:END -->
 
 ### 项目里用到的技术
 

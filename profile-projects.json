@@ -1,0 +1,54 @@
+{
+  "owner": "getl-x",
+  "excluded_repositories": [],
+  "featured": [
+    {
+      "repository": "daybook",
+      "title": "Daybook",
+      "subtitle": "日记",
+      "icon": "assets/daybook.svg",
+      "description": "早上想想今天，白天随手记下，晚上回顾。用固定问题引导记录，把日记留在自己的服务器上。",
+      "tags": "引导式记录 · 离线草稿 · PWA / Android · 自托管"
+    },
+    {
+      "repository": "lastdone",
+      "title": "LastDone",
+      "subtitle": "生活提醒",
+      "icon": "assets/lastdone.svg",
+      "description": "滤芯上次是什么时候换的？备份又该做了吗？记录那些不常发生、却容易忘记的事。",
+      "tags": "周期追踪 · 离线优先 · 多端同步 · 自托管"
+    },
+    {
+      "repository": "matchpoint",
+      "title": "Matchpoint",
+      "subtitle": "赛点",
+      "icon": "assets/matchpoint.svg",
+      "description": "把官方电竞赛程、晋级图和历史存档放在一起，方便追踪 CS2、无畏契约、英雄联盟与 Apex 赛事。",
+      "tags": "官方数据 · 晋级图 · 开赛提醒 · PWA"
+    },
+    {
+      "repository": "personal-daily",
+      "title": "今日知览",
+      "subtitle": "信息日报",
+      "icon": "assets/daily.svg",
+      "description": "每天自动汇总科技、财经、科学、游戏与国内要闻，去重、分类，再整理成清爽的阅读页面。",
+      "tags": "公开信息源 · 自动更新 · 历史归档 · GitHub Pages"
+    },
+    {
+      "repository": "cozy-journal",
+      "title": "Cozy Journal",
+      "subtitle": "手账主题",
+      "icon": "assets/cozy.svg",
+      "description": "给 WordPress 加一点纸张、贴纸与手账的温度。布局、配色和写作体验，都可以按自己的喜好调整。",
+      "tags": "WordPress · 主题定制 · 前台写作 · 隐私默认"
+    },
+    {
+      "repository": "bilibili-audio-enhancer",
+      "title": "B 站音频增强",
+      "subtitle": "",
+      "icon": "assets/audio.svg",
+      "description": "让轻声说话听得清，让忽大忽小的声音更平稳。音频处理在浏览器本地完成。",
+      "tags": "油猴脚本 · Web Audio · 人声增强 · 动态音量"
+    }
+  ]
+}
