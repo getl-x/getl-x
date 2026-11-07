@@ -73,11 +73,16 @@
   <tr>
     <td width="50%" valign="top">
       <img src="assets/project.svg" width="36" height="36" alt=""><br>
+      <h3><a href="https://github.com/getl-x/lighttap">lighttap</a></h3>
+      <p>轻点：中文、离线、无需 Root 的 Android 连点工具，支持单点、多点顺序与同时点击。</p>
+      <p><sub>Kotlin</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/project.svg" width="36" height="36" alt=""><br>
       <h3><a href="https://github.com/getl-x/tiny-site">tiny-site</a></h3>
       <p>一个自动部署的极简个人主页、博客与文档示例</p>
       <p><sub>CSS</sub></p>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <!-- PROJECTS:END -->
